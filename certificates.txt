@@ -1,0 +1,72 @@
+
+  <div id="Certificates" class="section lb">
+    <div class="container">
+        <div class="section-title text-left">
+            <h3>Certificates</h3>
+            <p> </p>
+        </div><!-- end title -->
+
+      <div class="row">
+
+        <div class="col-md-4">
+          <div class="services-inner-box">
+            <div class="ser-icon">
+             <i class="flaticon-seo"></i>
+            </div>
+            <h3><i class="fa fa-quote-left"></i>  Career Essentials in Data Analysis by Microsoft  <i class="fa fa-quote-right"></i></h3>
+              <p>Covered data interpretation, data cleaning, and data modeling. Gained proficiency in tools such as Excel, Access, SQL, and PowerBI, and developed skills in data visualization, querying, and reporting. 
+              </p>
+              <div class="image-box" style="margin: 20px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
+                <a href="#" data-lightbox="image">
+                    <img src="uploads/CertificateOfCompletion_Career Essentials in Data Analysis by Microsoft and LinkedIn_page-0001.jpg" alt="Web Idea Image" style="width: 100%; height: 150px; object-fit: cover; border-radius:10px;">
+                </a>
+                <div style="text-align: center; margin-top: 10px;">
+                  <a href="uploads/CertificateOfCompletion_Career Essentials in Data Analysis by Microsoft and LinkedIn.pdf" target="_blank" class="btn btn-sm btn-primary" style="background-color: #000; color: #fff; border: none; padding: 5px 10px; border-radius: 5px; display: inline-block;">Click Here to See</a>
+                </div>
+              </div>
+          </div>
+          
+        </div><!-- end col -->
+
+        <div class="col-md-4">
+          <div class="services-inner-box">
+              <div class="ser-icon">
+                <i class="flaticon-process"></i>
+              </div>
+              <h3><i class="fa fa-quote-left"></i>  ServiceNow IT Leadership  <i class="fa fa-quote-right"></i></h3>
+              <p>Learned IT service management practices and ServiceNow platform expertise. Covered ITIL foundations, service desk operations, incident and problem management, change and release management, and IT governance. 
+              </p>
+              <div class="image-box" style="margin: 20px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
+                <a href="#" data-lightbox="image">
+                    <img src="uploads/CertificateOfCompletion_ServiceNow IT Leadership Professional Certificate_page-0001.jpg" alt="Web Idea Image" style="width: 100%; height: 150px; object-fit: cover; border-radius:10px;">
+                </a>
+                <div style="text-align: center; margin-top: 10px;">
+                  <a href="uploads/CertificateOfCompletion_ServiceNow IT Leadership Professional Certificate.pdf" target="_blank" class="btn btn-sm btn-primary" style="background-color: #000; color: #fff; border: none; padding: 5px 10px; border-radius: 5px; display: inline-block;">Click Here to See</a>
+                </div>
+              </div>
+          </div>
+        </div><!-- end col -->
+
+        <div class="col-md-4">
+          <div class="services-inner-box">
+            <div class="ser-icon">
+              <i class="flaticon-development"></i>
+            </div>
+        <h3><i class="fa fa-quote-left"></i>  Career Essentials in Generative AI by Microsoft  <i class="fa fa-quote-right"></i></h3>
+        <p>Covered topics include AI ethics, machine learning, NLP, and computer vision. Gained hands-on experience with generative models, including language models, transformers, and diffusion models.
+        </p>
+        <div class="image-box" style="margin: 20px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden;">
+          <a href="#" data-lightbox="image">
+              <img src="uploads/CertificateOfCompletion_Career Essentials in Generative AI by Microsoft and LinkedIn_page-0001.jpg" alt="Web Idea Image" style="width: 100%; height: 150px; object-fit: cover; border-radius:10px;">
+          </a>
+          <div style="text-align: center; margin-top: 10px;">
+            <a href="uploads/CertificateOfCompletion_Career Essentials in Generative AI by Microsoft and LinkedIn.pdf" target="_blank" class="btn btn-sm btn-primary" style="background-color: #000; color: #fff; border: none; padding: 5px 10px; border-radius: 5px; display: inline-block;">Click Here to See</a>
+          </div>
+        </div>
+          </div>
+        </div><!-- end col -->
+
+                      
+      </div><!-- end row -->
+    </div><!-- end container -->
+  </div><!-- end section --> 

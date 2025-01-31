@@ -1,0 +1,3 @@
+.home-section {
+  height: 30vh; /* adjust the value as needed */
+}
